@@ -1,19 +1,25 @@
 # BDADV3 overall progress
-  - [**] blender + python only piano game
-    - score logic (no distance, simply score if sequence[frame * some_factor]==bike.x)
+  - [**] blender + python only game demo
+    - [-] score logic (no distance, simply score if sequence[frame * some_factor]==bike.x)
   - [v] fully opensource on github 
   - [v] simple game, piano game ish
-  - [**] with one .blend file, web-playable and locally playable
-  - [**] youtube streaming
-  - [-] stories
-  - [-] music
-  - [-] ever-growing
-  - [-] cafe-sim
-  - [-] fight
-  - [-] adv
-  - [-] roguelike
+  - [**] with one .blend file, 
+    - [v] locally playable
+    - [**] web-playable
+  
+  - [-] youtube streaming
+   
+  - [-] ever-growing-contents
+    - [-] portal
+    - [-] stories
+    - [-] music
+    - [-] cafe-sim
+    - [-] fight
+    - [-] adv
+    - [-] roguelike
 
 # P2P-VIDEO-CHAT
+  [****] license
   -implement this in in order to add user input stream >browser [internet] >server > blender script 
   - big bonus: P2P-VIDEO-CHAT can share PC screen, so up-streaming video is already there!
   - [*] [todo] then All it takes is input (key/mouse) from client to server streaming

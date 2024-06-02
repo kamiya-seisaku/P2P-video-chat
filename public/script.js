@@ -8,8 +8,9 @@ var peers = {}
 const currentUserId = "";
 var pathArray = window.location.pathname.split('/');
 type=pathArray[2]
-// const API_URL="http://localhost:8080"
-const API_URL="https://nchat.ml"
+// const API_URL = "http://35.193.245.204:8080";
+const API_URL="http://localhost:8080"
+// const API_URL="https://nchat.ml"
 // const API_URL="https://p2pcall.azurewebsites.net"
 
 console.log(ROOM_ID+" joined");
